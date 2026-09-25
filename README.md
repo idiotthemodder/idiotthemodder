@@ -22,8 +22,6 @@ rebuild of the Sakuraa Gorilla Tag mod checker + camera mod from decompiled sour
 <!-- swap these for your own screenshots/gifs, keep width consistent -->
 <p>
   <img src="docs/screenshots/mod-checker-menu.png" width="260" alt="mod checker main menu" />
-  <img src="docs/screenshots/mod-checker-nametags.png" width="260" alt="nametag customization" />
-  <img src="docs/screenshots/mod-checker-lists.gif" width="260" alt="live list reload demo" />
 </p>
 
 <details>
