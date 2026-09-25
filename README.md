@@ -43,7 +43,7 @@ rebuild of the Sakuraa Gorilla Tag mod checker + camera mod from decompiled sour
 BepInEx plugin that puts a live lyrics/music HUD in Gorilla Tag, paired with a python helper for fetching lyrics and track info. shows artist, track art, and synced lyrics in-headset.
 
 <p>
-  <img src="docs/screenshots/lyricshud-demo.gif" width="400" alt="lyrics hud in game" />
+  <img src="docs/screenshots/lyricshud-demo.png" width="400" alt="lyrics hud in game" />
 </p>
 
 ---
