@@ -1,4 +1,4 @@
-# hey, i'm idiotthemodder 🐒
+# hey, i'm idiotthemodder 
 
 ![Linux](https://img.shields.io/badge/CachyOS-arch--based-1793D1?logo=archlinux&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-mods-239120?logo=csharp&logoColor=white)
@@ -7,10 +7,10 @@
 
 i mod Gorilla Tag and mess around with reverse engineering in my free time. everything here is rebuilt from source, no ripped binaries.
 
-- 🐒 building/rebuilding mods for **Gorilla Tag** — mod checkers, camera mods, HUDs
-- 🔍 learning RE through crackmes.one — rizin, cutter, ghidra, pwndbg
-- 🐧 daily driving **CachyOS** (Arch-based Linux) on Hyprland
-- 🥽 VR stuff on a Quest 3, streaming with WiVRn
+- building/rebuilding mods for **Gorilla Tag** — mod checkers, camera mods, HUDs
+- learning RE through crackmes.one — rizin, cutter, ghidra, pwndbg
+- daily driving **CachyOS** (Arch-based Linux) on Hyprland
+- VR stuff on a Quest 3, streaming with WiVRn
 
 ---
 
